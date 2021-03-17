@@ -125,7 +125,7 @@ Our package is listed under `dependencies` even though it is a dev dependency. D
 If all these files are dev files (test files, etc.) then a dependency will be considered as a dev dependency even though it is not listed as such. Learn more about it [here](/dependencies/dependency-policies).
 :::
 
-### Add a component that is dependant on other components
+### Add a component that is dependent on other components
 
 Our project has one component left to be tracked: 'tech-jokes-viewer'.
 
